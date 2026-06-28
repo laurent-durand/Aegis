@@ -1,0 +1,2 @@
+// Deep implementation of Aegis in WASM
+// Optimized logic for WASM-based secure sandbox for scripts.
